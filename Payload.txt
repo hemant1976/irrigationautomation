@@ -1,0 +1,104 @@
+{
+    "name" : "AA01",
+    "description" : "Irrigation for Sugarcane",
+    "area" : "1200",
+    "cropType" : "SugarCane",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "CC01",
+    "description" : "Irrigation for Cotton",
+    "area" : "1200",
+    "cropType" : "Cotton",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}
+
+{
+    "name" : "DD01",
+    "description" : "Irrigation for Rice",
+    "area" : "1200",
+    "cropType" : "Rice",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "BB01",
+    "description" : "Irrigation for Soyabean",
+    "area" : "1200",
+    "cropType" : "Soyabean",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}	
+{
+    "name" : "LL01",
+    "description" : "Irrigation for Flower",
+    "area" : "1200",
+    "cropType" : "Flower",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "OO01",
+    "description" : "Irrigation for Orange",
+    "area" : "1200",
+    "cropType" : "Orange",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}	
+{
+    "name" : "TT01",
+    "description" : "Irrigation for Lemon",
+    "area" : "1200",
+    "cropType" : "Lemon",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "JJ01",
+    "description" : "Irrigation for Grapes",
+    "area" : "1200",
+    "cropType" : "Grapes",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "PP01",
+    "description" : "Irrigation for Papaya",
+    "area" : "1200",
+    "cropType" : "Papaya",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "QQ01",
+    "description" : "Irrigation for Banana",
+    "area" : "1200",
+    "cropType" : "Banana",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+{
+    "name" : "ZZ01",
+    "description" : "Irrigation for Tea",
+    "area" : "1200",
+    "cropType" : "Tea",
+    "soilType" : "Normal",
+    "startTime" : "05:22:00",
+    "endTime" : "05:23:00"       
+}		
+
+	
+	
+
